@@ -1,0 +1,5 @@
+.firefox-password
+*.log
+*.tmp
+.DS_Store
+
